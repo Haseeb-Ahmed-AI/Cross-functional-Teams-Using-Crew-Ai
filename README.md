@@ -1,8 +1,5 @@
 # CREWAI experiments
-
------- 
-
-
+----
 
 For my experiments with CrewAI, I decided to try 3 different projects, starting from the easiest to the most complex. The aim of the experiments was to have a team of AI agents do following work for me:
 1. Examine my Startup idea
@@ -74,6 +71,7 @@ For my experiments with CrewAI, I decided to try 3 different projects, starting 
 12. **Llama 2 7B chat** 
 - Didn't use any tool
 - generic content
+  
 13. **Phi-2**  
 - The smallest model ran into biggest problems
 - Lost track of what it's suppose to do, no output
